@@ -1,0 +1,28 @@
+<html>
+<head>
+<style>
+	.menu a {border-style: solid;
+		background-color: green;
+		width: 55px;
+		height: 15px;
+		border-radius: 7px;
+		padding: 7px;
+		text-align: justify;
+		text-decoration: none;
+		color: white;
+		}
+	
+	
+</style>
+</head>
+<body>
+<div class="menu">
+
+  			<a href="home.html">Home</a>
+  	
+  			<a href="about.html">About</a>
+
+  			<a href="contacts.html">Contacts</a>
+</div>
+</body>
+</html>
